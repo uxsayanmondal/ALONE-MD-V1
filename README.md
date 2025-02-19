@@ -38,7 +38,7 @@
 
 
 
-3. Deploy on heroku
+3. Deploy on koyeb
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/turn-meh' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
